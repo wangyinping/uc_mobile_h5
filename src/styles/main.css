@@ -1,0 +1,38 @@
+.btn-primary {
+  width: 100%;
+  height: 48px;
+  line-height: 48px;
+  color: #ffffff;
+  font-size: 15px;
+  background-color: #465582;
+  border: 0;
+}
+.gray-bg {
+  background: #F8F8F8;
+}
+.white-btn {
+  height: 45px;
+  line-height:45px;
+  text-align: center;
+  font-size: 18px;
+  color: #465582;
+  border: 1.5px solid #465582;
+  border-radius: 4px;
+}
+.blue-btn {
+  height: 45px;
+  line-height:45px;
+  text-align: center;
+  font-size: 18px;
+  background: #465582;
+  color: #fff;
+  border: 1px solid #465582;
+  border-radius: 4px;
+}
+.disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+.form-data{
+  display: none;
+}
